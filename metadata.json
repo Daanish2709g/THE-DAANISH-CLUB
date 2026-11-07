@@ -1,0 +1,6 @@
+{
+  "name": "AURUM & OBSIDIAN - Haute Bespoke Tailoring & 3D Fitting Atelier",
+  "description": "High-luxury bespoke custom-tailored suits for men and women. Featuring real-time 3D fitting trials, AI measurement analysis, Savile Row craftsmanship, and secure global delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
